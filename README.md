@@ -3,7 +3,7 @@
 
 Welcome to the Web Developer Resume Template project! This modern and responsive template empowers users to craft a standout resume using HTML, CSS, and JavaScript. Whether you're a seasoned developer or just starting your career, this template provides a sleek and professional foundation for showcasing your skills and experience.
 
-<img src="https://i.postimg.cc/Wb4zsbkG/Screenshot-2024-01-30-at-21-32-11-Resume-Venkata-Kousik-1.png" alt="project-screenshot" width="90%" height="600/">
+<img src="https://i.postimg.cc/Wb4zsbkG/Screenshot-2024-01-30-at-21-32-11-Resume-Venkata-Kousik-1.png" alt="project-screenshot" width="100%" height="600/">
 
 ## Features 🌟
 
